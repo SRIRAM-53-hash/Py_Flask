@@ -1,5 +1,6 @@
--- Provide your DDL statement for creating a strict table "expenses" with following columns:
-	-- timestamp int
-	-- amount int
-	-- description text
-	-- category text
+CREATE TABLE expenses (
+    timestamp INTEGER NOT NULL,
+    amount INTEGER NOT NULL,
+    description TEXT,
+    category TEXT NOT NULL
+);
