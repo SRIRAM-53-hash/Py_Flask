@@ -5,4 +5,4 @@
 2. `cat sample_data.sql | python -m sqlite3 personal_finance.db`
 3. `python -m flask run`
 
-### this program will display the user's input after entering the value!!
+### this program will display the user's input after entering the value in tabular formate !!
